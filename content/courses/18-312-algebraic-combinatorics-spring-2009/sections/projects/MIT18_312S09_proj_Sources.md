@@ -4,6 +4,7 @@ course_id: 18-312-algebraic-combinatorics-spring-2009
 description: ''
 file: null
 file_location: /coursemedia/18-312-algebraic-combinatorics-spring-2009/a3270c7d99a0fb20f1cbfecc0296de53_MIT18_312S09_proj_Sources.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
