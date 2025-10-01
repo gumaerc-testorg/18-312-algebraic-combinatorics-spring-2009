@@ -18,25 +18,25 @@ A research paper is due at the end of the term. It should be on a topic related 
 
 Reference on acknowledging sources ([PDF]({{% getpage "courses/18-312-algebraic-combinatorics-spring-2009/sections/projects/MIT18_312S09_proj_Sources" %}}))
 
-Reference on writing a mathematical paper ([PDF](http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf))
+Reference on writing a mathematical paper ({{% resource_link "9e04f459-4921-47fb-ac75-65ce35cc53ff" "PDF" %}})
 
-[Samples of student papers](http://www-math.mit.edu/phase2/UJM/vol1/index.html) from the MIT Undergraduate _Journal of Mathematics_, June 1999
+{{% resource_link "82e02f3a-43c4-4c94-9915-2974a11e5669" "Samples of student papers" %}} from the MIT Undergraduate _Journal of Mathematics_, June 1999
 
 Possible Topics and References
 ------------------------------
 
 Below is a list of some possible topics, with references at the end. The topics are listed roughly in the order that we encountered the related material in class. You may also consider other possible topics not listed below:
 
-1.  Identities Involving Fibonacci and Lucas Numbers. Many possible sources including papers from Arthur Benjamin's [Web site](http://www.math.hmc.edu/~benjamin) or the book \[[BQ03](#BQ03)\].
+1.  Identities Involving Fibonacci and Lucas Numbers. Many possible sources including papers from Arthur Benjamin's {{% resource_link "049982eb-ddba-44c1-95fd-fc3965988367" "Web site" %}} or the book \[[BQ03](#BQ03)\].
 2.  The transfer-matrix method (an application of counting walks in graphs to other problems in enumerative combinatorics. See \[[Sta86](#Sta86), section 4.7\] for basic information. Further references are cited in \[Sta86, pp. 260-264\], and the exercises to chapter 4 of \[Sta86\] contains some further examples.
 3.  The relation between properties of a graph and the eigen values of its adjacency or Laplacian matrix. Many possibilities, see \[[CDS95](#CDS95)\] or \[[Lo93](#Lo93), Section 11\].
 4.  More on the Radon Transform, see \[[DG85](#DG85)\]. Also a generalization of the Radon transform to Cayley Graphs and connections to character theory.
-5.  Mixing Times for Random Walks and the Cheeger Inequality. Some links from Fan Chung Graham's [Web site](http://www.math.ucsd.edu/~fan).
-6.  Describe the theory of a special kind of Posets. Numerous possibilities, some of which are Binomial Posets, Distributive Lattices, Face Posets of polytopes, or Posets arising from hyperplane arrangements. A good starting point is section 3 of \[[Sta99](#Sta99)\]. Also [see](http://math.mit.edu/~rstan/arrangements/arr.html) Richard Stanley's lecture notes from Park City 2004.
+5.  Mixing Times for Random Walks and the Cheeger Inequality. Some links from Fan Chung Graham's {{% resource_link "72cc8fc2-1d30-46f0-b7cc-81ff934d1e0d" "Web site" %}}.
+6.  Describe the theory of a special kind of Posets. Numerous possibilities, some of which are Binomial Posets, Distributive Lattices, Face Posets of polytopes, or Posets arising from hyperplane arrangements. A good starting point is section 3 of \[[Sta99](#Sta99)\]. Also {{% resource_link "0f40b5b8-978d-461a-b9b6-296dfb6be853" "see" %}} Richard Stanley's lecture notes from Park City 2004.
 7.  Partition identities, such as the Rogers-Ramanujan identities. Some basic information appears in section 2 of \[[BS](#BS)\]. A more extensive reference is \[[An76](#An76)\].
-8.  There are various proofs of the Hook Length Formula in the literature. One possible project would be to study one of these in depth, another would be to compare and contrast two different proofs. Some of the proofs include the probabilistic approach of Greene-Nijenhuis-Wilf \[[GNW79](#GNW79)\] mentioned in class, a bijective proof of Novelli-Pak-Stoyanovskii \[[NPS97](#NPS97)\], or a recent algebraic proof by Bandlow. ([PDF](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v15i1r45/pdf))
+8.  There are various proofs of the Hook Length Formula in the literature. One possible project would be to study one of these in depth, another would be to compare and contrast two different proofs. Some of the proofs include the probabilistic approach of Greene-Nijenhuis-Wilf \[[GNW79](#GNW79)\] mentioned in class, a bijective proof of Novelli-Pak-Stoyanovskii \[[NPS97](#NPS97)\], or a recent algebraic proof by Bandlow. ({{% resource_link "713ef084-ea95-417f-a4a3-91180b0b865c" "PDF" %}})
 9.  The full RSK algorithm for semi-standard Young tableaux, including proofs of the Symmetry Theory and other applications. See chapter 7 of \[[Sta99](#Sta99)\], chapter 3 of \[[Sag01](#Sag01)\], or part I of \[[F97](#F97)\].
-10.  Variations of RSK and including RSK applied to Oscillating Tableaux ([see](http://www.mat.univie.ac.at/~kratt/artikel/oscill.html) for example by C. Krattenthaler). Another possibility is connection to balanced tableaux, see the next topic.
+10.  Variations of RSK and including RSK applied to Oscillating Tableaux ({{% resource_link "67bcf48d-f131-4980-8d76-5c781797a740" "see" %}} for example by C. Krattenthaler). Another possibility is connection to balanced tableaux, see the next topic.
 11.  Reduced decompositions of permutations. These concern expressing a permutation as a product of a minimal number of adjacent transpositions (i, i +1). This topic also is related to variations of RSK (balanced tableaux) and applications of the nil Coxeter algebra \[[FS94](#FS94)\].
 12.  Differential Posets, extension of material from Section 8 of the lecture notes. Also see \[[Sta88](#Sta88)\] and \[[Sta90](#Sta90)\].
 13.  Skew-schur Functions. Many possibilities, including questions like how to write a skew-schur function as the sum of schur functions. Related to the problem of writing the product of schur functions as a sum of schur functions and Littlewood-Richardson coefficients. See chapter 7 of \[[Sta99](#Sta99)\] or chapter 4 of \[[Sag01](#Sag01)\].
@@ -53,7 +53,7 @@ Below is a list of some possible topics, with references at the end. The topics 
 21.  Study further aspects of chip-firing games on graphs, possibly including the abelian sandpile model, the computation of critical groups of graphs, and G-parking functions. See for example chapters 13-14 of \[[GR01](#GR01)\].
 22.  Alternatively, a study of classical parking functions and possibly their connections to (q, t)-Catalan numbers is another possible topic.
 23.  Basics on Polytopes or specific examples such as Transportation and Birkhoff Polytopes, Cylic Polytopes, Associahedra, or Permutohedra. See for example \[[Zieg95](#Zieg95)\]. Can also look at Ehrhart Reciprocity, see for example chapter 4 of \[[Sta86](#Sta86)\].
-24.  Tilings. There are many results involving algebra. See also sections 7 and 8 of \[[BS](#BS)\]. The reference ([PS - 1.6MB](http://math.mit.edu/~rstan/papers/tilings.pdf)) contains many further interesting results on tilings. See Conway or Thurston for related material.
+24.  Tilings. There are many results involving algebra. See also sections 7 and 8 of \[[BS](#BS)\]. The reference ({{% resource_link "0cd7f596-199a-4799-bada-0c13b01195a2" "PS - 1.6MB" %}}) contains many further interesting results on tilings. See Conway or Thurston for related material.
 25.  Topics from Statisitical Mechanics such as Matching Enumeration, Pfaffians, the Ising Model, or aspects of the proof of the Alternating Sign Matrix Conjecture.
 26.  Introduction to Cluster Algebras. Cluster algebras are quickly becoming a huge subject. Possible topics include descriptions of quivers and quiver mutation, classification of cluster algebras of finite type, or of small rank.
 27.  The Gessel-Viennot theory of evaluation of determinants based on the combinatorics of involutions. A brief introduction appears in \[[Sta86](#Sta86), section 2.7\]. Further references are \[[GV85](#GV85)\] and \[S-W, section 4.5\] (Stanton-White -Constructive Combinatorics). Chapter 4 of this latter reference contains some further applications of involutions. Krattenthaler \[[Kra99](#Kra99)\] which also contains beautiful determinantal identities connected to lattice paths. There is also a recent generalization of Gessel-Viennot theory due to K. Talaska \[[Tal08](#Tal08)\].
@@ -61,13 +61,13 @@ Below is a list of some possible topics, with references at the end. The topics 
 Reference List
 --------------
 
-\[{{< anchor "An76" >}}{{< /anchor >}}An76\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0201135019/ref=nosim/mitopencourse-20) Andrews, George E. The _Theory of Partitions_. Reading, Mass: Addison-Wesley Pub. Co., Advanced Book Program, 1977. ISBN: 9780201135015.
+\[{{< anchor "An76" >}}{{< /anchor >}}An76\] = {{% resource_link "5f5f38ce-0c50-4440-8202-81ba4bf10420" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Andrews, George E. The _Theory of Partitions_. Reading, Mass: Addison-Wesley Pub. Co., Advanced Book Program, 1977. ISBN: 9780201135015.
 
-\[{{< anchor "BQ03" >}}{{< /anchor >}}BQ03\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0883853337/ref=nosim/mitopencourse-20) Benjamin, Arthur, and Jennifer J. Quinn. _Proofs That Really Count: The Art of Combinatorial Proof_. Dolciani mathematical expositions, no. 27. Washington, DC: Mathematical Association of America, 2003. ISBN: 9780883853337.
+\[{{< anchor "BQ03" >}}{{< /anchor >}}BQ03\] = {{% resource_link "8acebc69-d323-4f77-8b35-c1f8f65da874" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Benjamin, Arthur, and Jennifer J. Quinn. _Proofs That Really Count: The Art of Combinatorial Proof_. Dolciani mathematical expositions, no. 27. Washington, DC: Mathematical Association of America, 2003. ISBN: 9780883853337.
 
-\[{{< anchor "CDS95" >}}{{< /anchor >}}CDS95\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/3335004078/ref=nosim/mitopencourse-20) Cvetković, Dragoš M., Michael Doob, and Horst Sachs. _Spectra of Graphs: Theory and Application_. Heidelberg, Germany: Johann Ambrosius Barth Verlag, 1995. ISBN: 9783335004073.
+\[{{< anchor "CDS95" >}}{{< /anchor >}}CDS95\] = {{% resource_link "df97fbf2-b110-4597-9d2d-15e200dd0363" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Cvetković, Dragoš M., Michael Doob, and Horst Sachs. _Spectra of Graphs: Theory and Application_. Heidelberg, Germany: Johann Ambrosius Barth Verlag, 1995. ISBN: 9783335004073.
 
-\[{{< anchor "BS" >}}{{< /anchor >}}BS\] = Bjorner, A., and R. Stanley. "A Combinatorial Miscellany." ([PDF](http://math.mit.edu/~rstan/papers/comb.pdf))
+\[{{< anchor "BS" >}}{{< /anchor >}}BS\] = Bjorner, A., and R. Stanley. "A Combinatorial Miscellany." ({{% resource_link "b3e4dca5-36e3-443f-8a58-8f0345028ba3" "PDF" %}})
 
 \[{{< anchor "deB64" >}}{{< /anchor >}}deB64\] = De Bruijn, N. C. _Polya's Theory of Counting in Applied Combinatorial Mathematics_. Edited by E. F. Beckenback. New York, NY: John Wiley and Sons, Inc., 1964, pp. 144-184.
 
@@ -75,36 +75,36 @@ Reference List
 
 \[{{< anchor "FS94" >}}{{< /anchor >}}FS94\] = Fomin, S., and R. P. Stanley. "Schubert Polynomials and the Nilcoxeter Algebra." _Advances in Mathematics_ 103, no. 2 (1994): 196-207.
 
-\[{{< anchor "F97" >}}{{< /anchor >}}F97\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521567246/ref=nosim/mitopencourse-20) Fulton, William. _Young Tableaux: With Applications to Representation Theory and Geometry_. London Mathematical Society student texts, 35. Cambridge, England: Cambridge University Press, 1996. ISBN: 9780521567244.
+\[{{< anchor "F97" >}}{{< /anchor >}}F97\] = {{% resource_link "cd6471da-ba49-4fe0-b7ce-d15f55554222" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Fulton, William. _Young Tableaux: With Applications to Representation Theory and Geometry_. London Mathematical Society student texts, 35. Cambridge, England: Cambridge University Press, 1996. ISBN: 9780521567244.
 
 \[{{< anchor "GV85" >}}{{< /anchor >}}GV85\] = Gessel, I., and G. Viennot. "Binomial Determinants, Paths, and Hook Length Formulae." _Advances in Mathematics_ 58, no. 3 (1985): 300-321.
 
-\[{{< anchor "GNW79" >}}{{< /anchor >}}GNW79\] = Greene, C., and A. Nijenhuis, and H. Wilf. "A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape. _Advances in Mathematics_ 31 (1979): 104-109. ([PDF](http://www.math.upenn.edu/~wilf/website/Probabilistic%20proof.pdf))
+\[{{< anchor "GNW79" >}}{{< /anchor >}}GNW79\] = Greene, C., and A. Nijenhuis, and H. Wilf. "A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape. _Advances in Mathematics_ 31 (1979): 104-109. ({{% resource_link "5ed04e37-d8b7-4801-91ac-27cf4e737d63" "PDF" %}})
 
-\[{{< anchor "GR01" >}}{{< /anchor >}}GR01\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0387952411/ref=nosim/mitopencourse-20) Godsil, C. D., and Gordon Royle. _Algebraic Graph Theory_. Graduate texts in mathematics, 207. New York, NY: Springer, 2001. ISBN: 9780387952413.
+\[{{< anchor "GR01" >}}{{< /anchor >}}GR01\] = {{% resource_link "9218c0e3-adc6-4374-b7dd-ef6a597478fa" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Godsil, C. D., and Gordon Royle. _Algebraic Graph Theory_. Graduate texts in mathematics, 207. New York, NY: Springer, 2001. ISBN: 9780387952413.
 
-\[{{< anchor "HP73" >}}{{< /anchor >}}HP73\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0123242452/ref=nosim/mitopencourse-20) Harary, Frank, and Edgar M. Palmer. _Graphical Enumeration_. New York, NY: Academic Press, 1973. ISBN: 9780123242457.
+\[{{< anchor "HP73" >}}{{< /anchor >}}HP73\] = {{% resource_link "b2bc6f8c-0869-4f15-9d40-bb41d1d8a297" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Harary, Frank, and Edgar M. Palmer. _Graphical Enumeration_. New York, NY: Academic Press, 1973. ISBN: 9780123242457.
 
 \[{{< anchor "KP07" >}}{{< /anchor >}}KP07\] = Konvalinka, Matjaz, and Igor Pak. "Non-Commutative Extensions of the MacMahon Master Theorem." _Advances in Mathematics_ 216, no. 1 (2007): 29.
 
 \[{{< anchor "Kra99" >}}{{< /anchor >}}Kra99\] = Krattenthaler, C. "Advanced Determinant Calculus." _Séminaire Lotharingien Combin_ 42 ("The Andrews Festschrift"), Article B42q (1999): 67.
 
-\[{{< anchor "Lo93" >}}{{< /anchor >}}Lo93\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/044481504X/ref=nosim/mitopencourse-20) Lovász, László. _Combinatorial Problems and Exercises_. Amsterdam, The Netherlands: North Holland, 1993. ISBN: 9780444815040.
+\[{{< anchor "Lo93" >}}{{< /anchor >}}Lo93\] = {{% resource_link "7c0d821c-e4d9-4c08-8cd3-9dd90c1dd5a9" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Lovász, László. _Combinatorial Problems and Exercises_. Amsterdam, The Netherlands: North Holland, 1993. ISBN: 9780444815040.
 
 \[{{< anchor "Mo70" >}}{{< /anchor >}}Mo70\] = Moon, John W. _Counting Labelled Trees_. Canadian mathematical monographs, no. 1 \[Montreal\]: Canadian Mathematical Congress, 1970.
 
 \[{{< anchor "NPS97" >}}{{< /anchor >}}NPS97\] = Novelli, Jean-Christophe, Igor Pak, and Alexander V. Stoyanovskii. "A Direct Bijective Proof of the Hook-Length Formula." _Discrete Mathematics and Theoretical Computing_ 1, no. 1 (1997): 53.
 
-\[{{< anchor "Sag01" >}}{{< /anchor >}}Sag01\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0387950672/ref=nosim/mitopencourse-20) Sagan, Bruce Eli. _The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions_. Graduate texts in mathematics, 203. New York, NY: Springer, 2001. ISBN: 9780387950679.
+\[{{< anchor "Sag01" >}}{{< /anchor >}}Sag01\] = {{% resource_link "60a430ae-e9bf-47a5-9510-8a41598f54c3" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Sagan, Bruce Eli. _The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions_. Graduate texts in mathematics, 203. New York, NY: Springer, 2001. ISBN: 9780387950679.
 
-\[{{< anchor "Sta86" >}}{{< /anchor >}}Sta86\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521553091/ref=nosim/mitopencourse-20) Stanley, Richard P. _Enumerative Combinatorics_. Cambridge studies in advanced mathematics, 49, 62. Cambridge, England: Cambridge University Press, 1997. ISBN: 9780521553094.
+\[{{< anchor "Sta86" >}}{{< /anchor >}}Sta86\] = {{% resource_link "289c0463-24e9-4764-bdaa-d3d2e511026e" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Stanley, Richard P. _Enumerative Combinatorics_. Cambridge studies in advanced mathematics, 49, 62. Cambridge, England: Cambridge University Press, 1997. ISBN: 9780521553094.
 
-\[{{< anchor "Sta99" >}}{{< /anchor >}}Sta99\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521560691/ref=nosim/mitopencourse-20) ———. [_Enumerative Combinatorics_](http://math.mit.edu/~rstan/ec/). Vol. 2. Cambridge, MA: Cambridge Univ Press, 1999. ISBN: 9780521560696.
+\[{{< anchor "Sta99" >}}{{< /anchor >}}Sta99\] = {{% resource_link "8bd0ca83-ce24-4861-a646-e29b4dc291f0" "![Buy at Amazon](/images/a_logo_17.gif)" %}} ———. {{% resource_link "a8e0e456-965a-4f51-94f6-8de6c09b74f1" "_Enumerative Combinatorics_" %}}. Vol. 2. Cambridge, MA: Cambridge Univ Press, 1999. ISBN: 9780521560696.
 
-\[{{< anchor "Sta88" >}}{{< /anchor >}}Sta88\] = ———. "[Differential Posets](http://www.jstor.org/action/showPublication?journalCode=jamermathsoci)." _Journal of the American Mathematical Society_ 1, no. 4 (October 1988): 919-961.
+\[{{< anchor "Sta88" >}}{{< /anchor >}}Sta88\] = ———. "{{% resource_link "1e20487c-9318-4e56-a510-ef738a578ab2" "Differential Posets" %}}." _Journal of the American Mathematical Society_ 1, no. 4 (October 1988): 919-961.
 
 \[{{< anchor "Sta90" >}}{{< /anchor >}}Sta90\] = ———. "Variations of Differential Posets." In _Invariant Theory and Tableaux, The IMA Volumes in Mathematics and Its Applications_. Vol. 19. Edited by D. Stanton. New York, NY: Springer, 1990, pp. 145-165.
 
 \[{{< anchor "Tal08" >}}{{< /anchor >}}Tal08\] = Talaska, K. "A Formula for Plücker Coordinates Associated with a Planar Network." _International Mathematics Research Notices_, Vol. 2008, Article ID rnn081.
 
-\[{{< anchor "Zieg95" >}}{{< /anchor >}}Zieg95\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/354094365X/ref=nosim/mitopencourse-20) Ziegler, Günter M. _Lectures on Polytopes_. Graduate texts in mathematics, 152. New York, NY: Springer-Verlag, 1994. ISBN: 9783540943655.
+\[{{< anchor "Zieg95" >}}{{< /anchor >}}Zieg95\] = {{% resource_link "dc2ef342-9dbf-4406-b9ac-59bc5a43aab8" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Ziegler, Günter M. _Lectures on Polytopes_. Graduate texts in mathematics, 152. New York, NY: Springer-Verlag, 1994. ISBN: 9783540943655.

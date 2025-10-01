@@ -40,12 +40,12 @@ This is an introductory course in algebraic combinatorics. No prior knowledge of
 Recommended Texts
 -----------------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521553091/ref=nosim/mitopencourse-20) Stanley, Richard P. _Enumerative Combinatorics_. Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521553094.
+{{% resource_link "289c0463-24e9-4764-bdaa-d3d2e511026e" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Stanley, Richard P. _Enumerative Combinatorics_. Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521553094.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521789877/ref=nosim/mitopencourse-20) ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
+{{% resource_link "7a33cf76-1948-48ed-9ab0-a63d7eb29e07" "![Buy at Amazon](/images/a_logo_17.gif)" %}} ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
 
 "Topics in Algebraic Combinatorics." by Richard Stanley  
-Notes available online ([PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).
+Notes available online ({{% resource_link "31f3d842-86e3-46d8-98ac-153fa44e8937" "PDF" %}}).
 
 Requirements
 ------------

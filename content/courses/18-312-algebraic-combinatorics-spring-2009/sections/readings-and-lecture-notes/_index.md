@@ -14,11 +14,11 @@ uid: a8103a5e-e84b-e926-a7d3-168f293776c8
 Readings are Assigned in the Recommended Texts:
 -----------------------------------------------
 
-\[EC1\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521553091/ref=nosim/mitopencourse-20) Stanley, Richard P. _Enumerative Combinatorics._ Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521553094.
+\[EC1\] = {{% resource_link "289c0463-24e9-4764-bdaa-d3d2e511026e" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Stanley, Richard P. _Enumerative Combinatorics._ Vol. 1. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521553094.
 
-\[EC2\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521789877/ref=nosim/mitopencourse-20) ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
+\[EC2\] = {{% resource_link "7a33cf76-1948-48ed-9ab0-a63d7eb29e07" "![Buy at Amazon](/images/a_logo_17.gif)" %}} ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
 
-\[TAC\] = "Topics in Algebraic Combinatorics." by Richard Stanley (Notes available online ([PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).)
+\[TAC\] = "Topics in Algebraic Combinatorics." by Richard Stanley (Notes available online ({{% resource_link "31f3d842-86e3-46d8-98ac-153fa44e8937" "PDF" %}}).)
 
 Supplemental lecture notes are provided for some of the lectures.
 
@@ -62,4 +62,4 @@ Supplemental lecture notes are provided for some of the lectures.
 | 34 | Pfaffians and matching enumeration |   |
 | 35 | Aztec diamonds |   |
 | 36 | Aztec diamonds II; Lattice path enumeration |   |
-| 37 | Lattice path enumeration II |   | Benjamin, A.T., and N. Cameron "Counting on Determinants" available online ([PDF](http://www.math.hmc.edu/~benjamin/papers/monthly481-492.pdf))
+| 37 | Lattice path enumeration II |   | Benjamin, A.T., and N. Cameron "Counting on Determinants" available online ({{% resource_link "4746d543-1ef9-41f3-8a5a-2e8bec3f0577" "PDF" %}})
